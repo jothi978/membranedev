@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🧬 Membrane
 
-<!--
-**membranedev/membranedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI-native integration infrastructure for developers and autonomous agents.
 
-Here are some ideas to get you started:
+Membrane turns natural language intent into production-ready scalable integration code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No black boxes.  
+No iPaaS lock-in.  
+No integration backlog.
+
+---
+
+## Built for the AI Era
+
+Membrane is designed for:
+
+- 🤖 AI agents that need reliable and scalable integrations
+- 🧑‍💻 Developers shipping customer-facing integrations  
+- 🚀 SaaS teams scaling integration infrastructure  
+
+AI plans it.  
+Membrane runs it.
+
+
+### 📚 Resources
+
+- 📖 Documentation: https://docs.getmembrane.com
+- 🧪 API Reference: https://docs.getmembrane.com/docs/api
+
+**Build software that connects itself.**
